@@ -1,0 +1,10 @@
+[Compositing]
+GLPreferBufferSwap=p #Avoid tearing
+OpenGLIsUnsafe=false
+
+[Desktops]
+Id_1=f0ad134b-0122-48a2-bac4-b047140c60ea
+Rows=1
+
+[Effect-PresentWindows]
+BorderActivateAll=9 #Disable left hotcorner
